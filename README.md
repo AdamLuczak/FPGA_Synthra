@@ -30,6 +30,7 @@ Each board is optimized for modifiability, signal accessibility, and easy hand-s
 - **Memory:** Two solder-selectable footprints for HyperRAM or HyperFLASH
 
 <img src="./SYNTHRA-E5-HR.JPG" alt="Synthra‑E5‑HR" width="40%">
+<img src="./SYNTHRA-E5-HR.JPG" alt="Synthra‑E5‑HR" width="40%">
 
 - **Peripherals:**
   - 10 user LEDs
