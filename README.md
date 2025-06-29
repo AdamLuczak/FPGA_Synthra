@@ -29,7 +29,7 @@ Each board is optimized for modifiability, signal accessibility, and easy hand-s
   - Supported by open-source tools (Yosys, NextPNR)
 - **Memory:** Two solder-selectable footprints for HyperRAM or HyperFLASH
 
-![Synthra‑E5‑HR](./SYNTHRA-E5-HR.JPG)
+<img src="./SYNTHRA-E5-HR.JPG" alt="Synthra‑E5‑HR" width="40%">
 
 - **Peripherals:**
   - 10 user LEDs
@@ -45,7 +45,7 @@ Each board is optimized for modifiability, signal accessibility, and easy hand-s
 
 - **FPGA:** Lattice iCE40 UltraPlus (iCE40UP5K‑SG48)
 
-![Synthra‑UP‑5K](./SYNTHRA-UP-5K.JPG)
+<img src="./SYNTHRA-UP-5K.JPG" alt="Synthra‑E5‑HR" width="40%">
 
 - **Key features:**
   - 5,280 LUTs, 1 Mb RAM, 8 DSP blocks
@@ -60,7 +60,7 @@ Each board is optimized for modifiability, signal accessibility, and easy hand-s
 
 - **FPGA:** Lattice iCE40HX1K (TQFP‑144)
 
-  ![Synthra‑IC‑1K](./SYNTHRA-IC-1K.JPG)
+<img src="./SYNTHRA-IC-1K.JPG" alt="Synthra‑E5‑HR" width="40%">
   
 - **Key features:**
   - 1,280 LUTs, 64 Kb block RAM
