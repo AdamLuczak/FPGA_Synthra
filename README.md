@@ -29,7 +29,7 @@ Each board is optimized for modifiability, signal accessibility, and easy hand-s
   - Supported by open-source tools (Yosys, NextPNR)
 - **Memory:** Two solder-selectable footprints for HyperRAM or HyperFLASH
 
-[View Synthra‑E5‑HR image](./SYNTHRA-E5-HR.JPG)  
+![Synthra‑E5‑HR](./SYNTHRA-E5-HR.JPG)
 
 - **Peripherals:**
   - 10 user LEDs
