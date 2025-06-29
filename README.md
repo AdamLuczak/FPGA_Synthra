@@ -44,6 +44,9 @@ Each board is optimized for modifiability, signal accessibility, and easy hand-s
 ### Synthra‑UP‑5K
 
 - **FPGA:** Lattice iCE40 UltraPlus (iCE40UP5K‑SG48)
+
+![Synthra‑UP‑5K](./SYNTHRA-UP-5K.JPG)
+
 - **Key features:**
   - 5,280 LUTs, 1 Mb RAM, 8 DSP blocks
   - Integrated LED drivers, SPI/I²C, PWM
@@ -56,6 +59,9 @@ Each board is optimized for modifiability, signal accessibility, and easy hand-s
 ### Synthra‑IC‑1K
 
 - **FPGA:** Lattice iCE40HX1K (TQFP‑144)
+
+  ![Synthra‑IC‑1K](./SYNTHRA-IC-1K.JPG)
+  
 - **Key features:**
   - 1,280 LUTs, 64 Kb block RAM
   - High GPIO availability
